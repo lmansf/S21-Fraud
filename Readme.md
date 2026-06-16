@@ -5,8 +5,7 @@ Sequence to One Fraud Detection Model. Based on the predecessor technology to th
 Coming Soon
 
 # Project Goals
-1. Build an RNN by hand
-2. Learn the architecture that LLMs are based on
+1. Proof of concept for a new Review system
 
 # Project Impact & Scope
 ## Impact
